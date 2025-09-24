@@ -131,3 +131,4 @@ fprintf('A3: Z{2x1 - 3x2} and Z{x1[n-3]} verified symbolically; ROC |z|>0.5.\n')
 fprintf('A4: 1/(1-0.7 z^{-1}) -> 0.7^n u[n].  (1-0.5 z^{-1})/(1-0.8 z^{-1}) -> 0.625 δ[n] + 0.375 (0.8)^n u[n].\n');
 fprintf('A5: Poles: '); disp(poles_H.'); fprintf('Zeros: '); disp(zeros_H.');
 fprintf('Saved figures: A5_pz.png, A5_freq.png, A5_input.png, A5_output.png\n');
+![Images]()
