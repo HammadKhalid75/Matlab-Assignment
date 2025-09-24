@@ -134,10 +134,10 @@ fprintf('A4: 1/(1-0.7 z^{-1}) -> 0.7^n u[n].  (1-0.5 z^{-1})/(1-0.8 z^{-1}) -> 0
 fprintf('A5: Poles: '); disp(poles_H.'); fprintf('Zeros: '); disp(zeros_H.');
 fprintf('Saved figures: A5_pz.png, A5_freq.png, A5_input.png, A5_output.png\n');
 
-![image]()
-![image]()
-![image]()
-![image]()
+![image](images/s1.png)
+![image](images/s2.png)
+![image](images/s3.png)
+![image](images/s4.png)
 
 
 # A1 – Finite Sequences to Polynomials
